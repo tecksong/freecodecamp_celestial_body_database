@@ -1,0 +1,2 @@
+# freecodecamp_celestial_body_database
+Learning PostgreSQL with freeCodeCamp tutorial
